@@ -1,6 +1,5 @@
 # Plugins
-gems:
-  - jekyll-assets
+gems: [Jekyll-minibundle]
 
 # Site settings
 title: Mads Buch
