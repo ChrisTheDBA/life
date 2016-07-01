@@ -1,3 +1,7 @@
+# Plugins
+gems:
+  - jekyll-assets
+
 # Site settings
 title: Mads Buch
 email: madspbuch@gmail.com
