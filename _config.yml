@@ -1,5 +1,5 @@
 # Plugins
-gems: [Jekyll-minibundle]
+gems: [Jekyll-minibundle, jekyll-multiple-languages]
 
 # Site settings
 title: Mads Buch
