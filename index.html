@@ -13,7 +13,8 @@ works:
   - image: images/front-travel.png
     class: brand wide
     title: Travel
-    desc: "Travel Philosophy &amp; Reports"
+    desc:  "Travel Philosophy &amp; Reports"
+    url:   "/travel.html"
   - image: images/@stock/msn-work-4.jpg
     class: development
     title: Umbrella
@@ -68,7 +69,7 @@ works:
   <ul class='gallery'>
     {% for work in page.works %}
       <li class='{{work.class}}'>
-        <a href='portfolio-item.html'>
+        <a href='{{work.url | prepend site.baseurl }}'>
           <img alt="" src="{{work.image}}" />
           <div class='overlay'>
             <div class='thumb-info'>
