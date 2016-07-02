@@ -33,8 +33,8 @@
               </ul>
             </li>
           {% else %}
-            <li class="{{active_class}}">
-              <a href="{{site.url}}/{{site.baseurl}}{{ item.path }}">{{ item.name }}</a>
+            <li class="{{ active_class }}">
+              <a href="{{ site.url }}/{{ site.baseurl }}{{ item.path }}">{{ item.name }}</a>
             </li>
           {% endif %}
         {% endfor %}
