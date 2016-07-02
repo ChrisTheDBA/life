@@ -3,7 +3,7 @@ gems:
 - jekyll-language-plugin
 
 # Site settings
-title: Mads Buch
+title: Life
 email: madspbuch@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Thoughts on life.
