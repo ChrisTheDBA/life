@@ -69,7 +69,7 @@ works:
   <ul class='gallery'>
     {% for work in page.works %}
       <li class='{{work.class}}'>
-        <a href='{{work.url | prepend site.baseurl }}'>
+        <a href='{{work.url | prepend: site.baseurl }}'>
           <img alt="" src="{{work.image}}" />
           <div class='overlay'>
             <div class='thumb-info'>
