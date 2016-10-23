@@ -1,13 +1,9 @@
-# Plugins
-gems:
-- jekyll-language-plugin
-
 # Site settings
 title: Life
 email: madspbuch@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Thoughts on life.
-baseurl: "/life" # the subpath of your site, e.g. blog/
+#baseurl: "/life" # the subpath of your site, e.g. blog/
 url: "http://madsbuch.com" # the base hostname & protocol for your site
 twitter_username: madspbuch
 github_username:  madsbuch

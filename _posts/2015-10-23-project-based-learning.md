@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Tom is designing the new site
-date:   2015-05-02 10:57:12
-image: images/@stock/blog-1.jpg
+title:  Project Based Learning
+date:   2016-10-23 10:57:12
+#image: images/@stock/blog-1.jpg
 excerpt:
   Iste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus aspernatur quas est. dolorem eaque vel id quasi voluptatem eligendi rerum et quo ut. fuga qui ea voluptates sunt
-categories: Bussiness
-tags: design business
-author: honryou
+categories: education
+tags: learning teaching
+author: Mads Buch
 ---
 
 Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi
